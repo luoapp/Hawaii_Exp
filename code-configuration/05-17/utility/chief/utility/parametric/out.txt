@@ -1,0 +1,130 @@
+0
+ CONVOL3 -- NUMERICAL INPUTS REQUIRE DECIMAL POINT
+ TYPE OF RUN (S,W,P, OR T):
+   S = SOURCE LEVEL ONLY
+   W = SOURCE LEVEL AND BEAMWIDTH
+   P = SOURCE LEVEL, BEAMWIDTH, AND BEAM PATTERN
+   T = TERMINATE RUN
+
+ PROJECTOR SHAPE (C,S,R,E, OR A):
+   C = CIRCULAR PROJECTOR
+   S = SQUARE PROJECTOR
+   R = RECTANGULAR PROJECTOR
+   E = ENDFIRE LINE
+   A = ARBITRARY AXISYMMETRIC BEAM
+
+ DIAMETER (M)
+
+ MEAN PRIMARY FREQUENCY (KHZ)
+
+ DIFFERENCE FREQUENCY (KHZ)
+
+ RMS SOURCE LEVEL, ONE PRIMARY TONE (DB//UPA-M)
+
+ RANGE (M) (FOR INFINITE RANGE, USE NEGATIVE VALUE)
+
+ TEMPERATURE (CELSIUS)
+
+ SALINITY (PARTS PER THOUSAND)
+
+ DEPTH (M)
+
+ PH (USE 8.0 IN CASE OF DOUBT)
+
+ SOUND SPEED = 1481.8 M/S
+ ALPHA = 0.117E-02 DB/M
+ SLONESTAR = 280.4 DB//UPA-M-KHZ
+ PRIMARY WAVELENGTH = 0.198E-01 M
+ PROJECTOR AREA =  0.0573 M**2
+ RZERO =   2.898 M
+ SLZEROSTAR = 267.5 DB//UPA-M-KHZ
+ 20*LOG(CHI) = -12.9 DB
+ ALPHA*RZERO = 0.340E-02 DB
+ FZERO/FDIFF =   7.50
+ KZERO*RZERO =   922.
+ DIZERO = 32.7 DB
+ INFINITE RANGE
+ WESTERVELT BEAMWIDTH =  0.409 DEG
+ APPARENT PARAMETRIC GAIN =  -27.2 DB
+ PHASE OF PARAMETRIC GAIN = -63.7 DEG
+ APPARENT SOURCE LEVEL = 202.8 DB//UPA-M
+ PRIMARY BEAMWIDTH =  4.321 DEG
+0THETA(DEG)  BDGAP(DB)
+   0.0          0.0
+   0.2          0.1
+   0.4          0.0
+   0.6         -0.2
+   0.8         -0.4
+   1.0         -0.8
+   1.2         -1.2
+   1.4         -1.7
+   1.6         -2.3
+   1.8         -2.9
+   2.0         -3.6
+ 3-DB BEAMWIDTH =  3.7 DEG
+   3.0         -8.2
+   4.0        -14.0
+   5.0        -19.2
+   6.0        -22.1
+   7.0        -24.2
+   8.0        -26.9
+   9.0        -29.8
+  10.0        -31.9
+  11.0        -33.3
+  12.0        -35.1
+  13.0        -37.3
+  14.0        -39.1
+  15.0        -40.3
+  16.0        -41.6
+  17.0        -43.3
+  18.0        -45.0
+  19.0        -46.3
+  20.0        -47.4
+  21.0        -48.8
+  22.0        -50.4
+  23.0        -51.8
+  24.0        -52.9
+  25.0        -54.2
+  26.0        -55.7
+  27.0        -57.3
+  28.0        -58.6
+  29.0        -59.8
+  30.0        -61.3
+  31.0        -63.0
+  32.0        -64.8
+  33.0        -66.3
+  34.0        -67.9
+  35.0        -69.8
+  36.0        -72.1
+  37.0        -74.5
+  38.0        -77.1
+  39.0        -80.2
+  40.0        -84.3
+  41.0        -91.1
+  42.0       -127.0
+  43.0        -93.0
+  44.0        -87.5
+  45.0        -84.5
+  46.0        -82.7
+  47.0        -81.6
+  48.0        -80.9
+  49.0        -80.3
+  50.0        -79.7
+  51.0        -79.2
+  52.0        -78.9
+  53.0        -78.8
+  54.0        -78.9
+  55.0        -79.0
+  56.0        -79.1
+  57.0        -79.0
+  58.0        -79.0
+  59.0        -79.0
+  60.0        -79.2
+0
+ CONVOL3 -- NUMERICAL INPUTS REQUIRE DECIMAL POINT
+ TYPE OF RUN (S,W,P, OR T):
+   S = SOURCE LEVEL ONLY
+   W = SOURCE LEVEL AND BEAMWIDTH
+   P = SOURCE LEVEL, BEAMWIDTH, AND BEAM PATTERN
+   T = TERMINATE RUN
+

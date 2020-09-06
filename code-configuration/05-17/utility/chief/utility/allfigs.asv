@@ -1,0 +1,5 @@
+function allfigs(figs,action)
+for i=figs
+    figure(i)
+    eval(action);
+end

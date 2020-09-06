@@ -1,0 +1,11 @@
+*.daq
+*.dat
+*.GHO
+driver
+Symantec Ghost
+manual
+system disk image
+misc program
+rawdata
+workingFolder
+data

@@ -1,0 +1,14 @@
+function out=receive_data(name,timeout,type)
+if ~exist('type')
+    type='.mat';
+end
+dt=timeout/20;
+while timeout>0
+    d=dir(['m:\',name
+switch type
+    case '.mat'
+        save(['m:\',name,'.tmp'],'data');
+        eval(['!rename m:\',name,'.tmp ',name,'.mat']);
+    otherwise
+        error('bad type');
+end

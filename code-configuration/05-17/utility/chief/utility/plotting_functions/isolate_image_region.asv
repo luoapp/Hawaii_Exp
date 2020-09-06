@@ -1,0 +1,6 @@
+function [X,Y,D]=isolate_image_region(x,y,d)
+zoom_image(x,y,d);
+global Pts
+Pts=zeros(0,2);
+fig=inputdlg_modeless({},'click on points counterclockwise around region',[],{});
+a=
